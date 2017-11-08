@@ -46,6 +46,7 @@ public class PhotoImageFragment extends Fragment {
     Button gallery;
     Unbinder unbinder;
 
+
     private static final int CODE_GALLERY_REQUEST = 0xa0;
     private static final int CODE_CAMERA_REQUEST = 0xa1;
     private static final int CODE_RESULT_REQUEST = 0xa2;
