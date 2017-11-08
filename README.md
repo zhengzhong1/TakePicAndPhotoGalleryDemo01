@@ -1,5 +1,5 @@
 # TakePicAndPhotoGalleryDemo01
-好久之前写过一篇关于解决Android7.0拍照、访问相册的一篇博客http://blog.csdn.net/zz110753/article/details/60877594
+好久之前写过一篇关于解决Android7.0拍照、访问相册问题的一篇博客http://blog.csdn.net/zz110753/article/details/60877594
 也分享了这篇博客的demo到自己的GitHub上，由于我是在activity中直接去进行讲解，很多老哥留言说自己需要在fragment中使用,那为了可以更好的服务大家，抽个时间分享一下Fragment中去拍照访问现存的Demo，希望对大家有所帮助。
 
 
