@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakePicAndPhotoGalleryDemo01</string>
+    <string name="take_pic">拍照</string>
+    <string name="gallery">相册</string>
+</resources>
