@@ -166,7 +166,7 @@ public class PhotoImageFragment extends Fragment {
 
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
-        Log.d(TAG, "onActivityResult: requestCode: " + requestCode + "  resultCode:" + resultCode + " data:" + data.getAction());
+        Log.d(TAG, "onActivityResult: requestCode: " + requestCode + "  resultCode:" + resultCode);
         super.onActivityResult(requestCode, resultCode, data);
         if (resultCode != RESULT_OK) {
             Log.e(TAG, "onActivityResult: resultCode!=RESULT_OK");
